@@ -8,7 +8,7 @@ sudo wget https://raw.githubusercontent.com/realinternetbox/real-internet-box-in
 sudo sh real-internet-box-installer.sh
 ```
 
-#Run Angre Bee Client
+#Run Angry Bee Agent
 
 ```
 cd angry-bee-agent
