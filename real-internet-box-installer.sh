@@ -38,6 +38,9 @@ sudo sudo apt-get -y install linux-image-generic-lts-trusty
 
 #sudo chmod +x /usr/local/bin/docker-compose
 
+# Install Wget
+sudo apt-get -y install wget
+
 #Get Pip Install
 sudo wget https://bootstrap.pypa.io/get-pip.py
 
